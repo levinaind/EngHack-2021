@@ -38,41 +38,21 @@ header {
   color: #FBE9CD;
 }
 
+body {
+  background-color: #FBE9CD;
+}
 /* MAIN */
 .main {
   background-color: #FBE9CD;
   padding-bottom: 25%;
-  padding-top: 5%;
+  padding-top: 3%;
 }
 
-.main h1 {
-  padding-left: 5%;
-}
 
-.main h2 {
-  padding-left: 10%;
-  font-size: 25px;
-}
-.main h3 {
-  padding-left: 5%;
-    padding-top: 2%;
-  font-size: 20px;
-  text-align: left;
-}
-.main h4 {
-  font-size: 50px;
-  color: #603F6B;
-}
-
-.main h5 {
-  font-size: 15px;
-  padding-top: 10%;
-  padding-left: 5%;
-  text-align: left;
-}
 
 .logo {
   width: 45%;
+
   text-align: center;
 }
 
@@ -86,8 +66,31 @@ h2 {
 }
 .left {
   float: left;
+  
 }
 
-ul {
-  font-size: 25px;
+.words {
+  margin-left: 5%;
+  padding-left: 50px;
+  background-color: #DDEDFD;
+  border-radius: 20px;
 }
+
+.words h3 {
+  padding-bottom: 20px;
+}
+
+.words h2 {
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+
+.words h1 {
+  padding-top: 30px;
+}
+
+.words h5 {
+  padding-bottom: 30px;
+}
+
+          

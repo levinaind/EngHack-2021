@@ -89,8 +89,9 @@ canvas {
   background-color: #FBE9CD;
   border-radius: 20px;
   position: absolute;
-  left: 925px;
-  top: 550px;
+  
+  left: 625px;
+  top: 480px;
 }
 
 button {
